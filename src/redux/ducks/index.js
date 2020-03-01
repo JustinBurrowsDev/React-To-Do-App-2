@@ -7,6 +7,4 @@
   were './users' is a duck
 */
 
-export default function() {
-  return {}
-}
+export { default as itemState } from "./item"
